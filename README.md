@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<h3 align="center">I'm an Industrial Engineer and Data Scientist from Brazil, passionate about data and people.</h3>
+<h3 align="center">I'm an Industrial Engineer and Data Scientist from Brazil, passionate about data and process</h3>
 
 - 💬 You can ask me about **People Analytics, Data Visualization, Process Automation, Machine Learning**
 
