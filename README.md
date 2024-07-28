@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">I'm Marina, Industrial Engineer and Data Scientist from Brazil.</h3>
 
-- 💬 You can ask me about **People Analytics, Data Visualization, Process Automation, Machine Learning**
+- 💬 You can ask me about **Data Visualization, Business Intelligence, Process Automation, People Analytics, Machine Learning**
 
 - 👩‍💻 Curently learning **Machine Learning for Data Science**
 
